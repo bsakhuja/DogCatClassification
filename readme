@@ -1,0 +1,1 @@
+dogcatCNN.py will use a convolutional neural network using Tensorflow.  It will both train and test itself on the data provided (originally from Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data).  Source code is derived from https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/
